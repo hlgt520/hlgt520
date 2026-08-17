@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=hlgt520&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&include_all_commits=true" alt="GitHub Stats"/>
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlgt520&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Top Languages"/>
+<img height="168" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hlgt520&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&include_all_commits=true" alt="GitHub Stats"/>
+<img height="168" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlgt520&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Top Languages"/>
 <img height="168" src="https://streak-stats.demolab.com/?user=hlgt520&hide_border=true&background=0d1117&ring=58a6ff&fire=f778ba&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats"/>
 
 </div>
