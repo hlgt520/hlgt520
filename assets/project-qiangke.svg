@@ -1,0 +1,43 @@
+<svg width="760" height="180" viewBox="0 0 760 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#bc8cff"/>
+      <stop offset="1" stop-color="#f778ba"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="758" height="178" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="24" y="2" width="712" height="2.5" rx="1.25" fill="url(#topline)" opacity="0.9"/>
+
+  <!-- repo icon (octicon repo, scaled) -->
+  <g transform="translate(30, 34) scale(1.7)" fill="#58a6ff">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 0 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
+  </g>
+
+  <!-- repo name -->
+  <text x="72" y="55" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="bold" fill="#58a6ff">hitwh-qiangke</text>
+
+  <!-- description -->
+  <text x="32" y="98" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" fill="#8b949e">哈尔滨工业大学（威海）教务系统抢课脚本</text>
+  <text x="32" y="126" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#6e7681">扫码登录 · 多课程跨类别选择 · 定时抢课 · 防冻结保护</text>
+
+  <!-- bottom chips -->
+  <g font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13.5">
+    <rect x="32" y="143" width="66" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="48" cy="155" r="5" fill="#00ADD8"/>
+    <text x="60" y="160" fill="#c9d1d9">Go</text>
+
+    <rect x="110" y="143" width="82" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="126" cy="155" r="5" fill="#e34c26"/>
+    <text x="138" y="160" fill="#c9d1d9">HTML</text>
+
+    <rect x="204" y="143" width="118" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="220" cy="155" r="5" fill="#5391FE"/>
+    <text x="232" y="160" fill="#c9d1d9">PowerShell</text>
+
+    <rect x="586" y="143" width="142" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="657" y="160" text-anchor="middle" fill="#58a6ff">↗ 查看项目源码</text>
+  </g>
+</svg>
